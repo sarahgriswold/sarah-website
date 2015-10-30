@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Offside);
+
+body {padding: 0px; margin: 0px; background-color:  #FDFEFC; position: relative; }
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {font-family: Offside; font-size: 15px; background-color:  #FDFEFC; color: black; font-weight: bold;  text-decoration: none;}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {font-family: Offside; font-size: 15px; background-color: #FDFEFC; color: black; font-weight: bold;  text-decoration: none; }
+  
+ .navbar-custom {padding: 0px; margin:0px; border: none; background: rgba(210, 229, 225, .9);
+      color: black;
+      border: none;
+      font-size: 14px;
+      font-weight: bold;
+	  text-decoration:none;
+	  font-family: Offside;}
+
+a .glyphicon {text-decoration: none; color: black;}
+
+h2 {font-weight: bold; text-align: center; font-size: 3em;}
+
+h2.hello {font-weight: bold; color: #DB8374;}
+
+h3 {font-weight: bold; text-align: center;}
+
+h4 {text-align: center; font-weight: bold; font-size: 3em; font-family: Offside;}
+ 
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+ .centered {
+   text-align: center;
+   font-size: 0;
+}
+.centered > div {
+   float: none;
+   display: inline-block;
+   text-align: left;
+   font-size: 13px;
+}
+
+  #section1 {margin: 0px; padding: 0px; width: 100%; border-bottom: 3px solid black;}
+  
+  #section2 {font-size: 15px; font-family: Offside; margin: 0px;padding-top:20px;padding-bottom: 20px; height:auto;color: black; background: #D2E5E1;}
+  
+  #comingsoon {padding-top: 50px;}
+  
+  #more2 {margin: 0px; border: dotted black 1px; border-radius: 50px 50px; background: #FDFEFC; padding: 20px; height: auto; }
+	
+  #section3 {border-top: 1px black solid; 
+  border-bottom: 1px black solid; 
+  text-align: center; font-size: 15px; font-family: Offside; 
+  margin: 0px; 
+  padding-top:20px; padding-bottom: 20px; 
+  height:auto; color: black;
+  background-color: #FDFEFC; 
+  width: 100%;}
+  
+  #comingsoon {padding-top: 70px; padding-bottom: 70px;}
+  
+  .thumbnail {padding: 0px; margin: 0px;}
+  
+  .col {margin: 0px; padding: 0px;}
+  
+  .row {margin: 0px; padding: 0px;}
+  
+  #section4 {margin: 0px; border-bottom: 1px black solid; color: black; font-size: 15px; width: 100%; padding-top:10px; padding-bottom: 10px; background-color: #D2E5E1;}
+
+  #section5 {margin: 0px; color: black; font-size: 13px; font-family: Offside; background-color: #FDFEFC;}
+ 
+ #response {padding: 20px; width: 100%; text-align: center;}
+ 
+ form {padding: 20px;}
+	  
+    
+
+ 
+
+
