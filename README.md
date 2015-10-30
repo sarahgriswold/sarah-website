@@ -1,1 +1,1 @@
-Intended for my own reflection on the evolution of my profile website
+Intended for my own reflection as my profile website evolves. Feedback is always welcomed! :)
