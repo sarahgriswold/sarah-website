@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Offside);
 
-body {padding: 0px; margin: 0px; background-color:  #FDFEFC; position: relative; }
+body {padding: 0px; margin: 0px; background-color:  #FDFEFC; position: relative; height: 100%;}
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {font-family: Offside; font-size: 15px; background-color:  #FDFEFC; color: black; font-weight: bold;  text-decoration: none;}
@@ -69,13 +69,15 @@ h4 {text-align: center; font-weight: bold; font-size: 3em; font-family: Offside;
   
   #section4 {margin: 0px; border-bottom: 1px black solid; color: black; font-size: 15px; width: 100%; padding-top:10px; padding-bottom: 10px; background-color: #D2E5E1;}
 
-  #section5 {margin: 0px; color: black; font-size: 13px; font-family: Offside; background-color: #FDFEFC;}
+  #section5 {height: auto; margin: 0px; color: black; font-size: 13px; font-family: Offside; background-color: #FDFEFC;}
  
  #response {padding: 20px; width: 100%; text-align: center;}
  
  form {padding: 20px;}
 	  
-    
+    #footer {height: 80px; width: 100%; background: #D2E5E1; position: relative; }
+
+
 
  
 
