@@ -100,14 +100,15 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
 <div id="section3" class="container-fluid">
 <div class="col-lg-4 col-sm-4 col-xs-12">
        
-             <img src="package.png" class="img-responsive">
+             <img id="pk1" src="package.png" class="img-responsive">
         
     </div>
 <div id="comingsoon" class="col-lg-4 col-sm-4 col-xs-12">
-        I'm still getting back into the groove, but soon there will be links to projects here!
+       <p> I'm still getting back into the groove, but soon there will be links to projects here. For now, you can check out my Github!</p>
+		<br><p><a href="https://github.com/sarahgriswold"><img src="git.png"></img></a></p>
     </div>
 			<div class="col-lg-4 col-sm-4 col-xs-12">
-         <img src="package.png" class="img-responsive">
+         <img id = "pk2" src="package.png" class="img-responsive">
         
     </div>
 </div>
