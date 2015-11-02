@@ -46,7 +46,9 @@ h4 {text-align: center; font-weight: bold; font-size: 3em; font-family: Offside;
   
   #section2 {font-size: 15px; font-family: Offside; margin: 0px;padding-top:20px;padding-bottom: 20px; height:auto;color: black; background: #D2E5E1;}
   
-  #comingsoon {padding-top: 50px;}
+  #comingsoon {position: center; padding-top: 50px;}
+  
+  #pk1 {position: center; } #pk2 { position: center; }
   
   #more2 {margin: 0px; border: dotted black 1px; border-radius: 50px 50px; background: #FDFEFC; padding: 20px; height: auto; }
 	
@@ -76,8 +78,6 @@ h4 {text-align: center; font-weight: bold; font-size: 3em; font-family: Offside;
  form {padding: 20px;}
 	  
     #footer {height: 80px; width: 100%; background: #D2E5E1; position: relative; }
-
-
 
  
 
